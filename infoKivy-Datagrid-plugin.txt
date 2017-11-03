@@ -1,0 +1,44 @@
+
+
+Overview
+
+
+
+TODO
+
+
+
+Logs
+Fri 3 Nov 2017 4:05 PM CST
+Created
+Change to python2
+    file, settings, project, interpreter, python2
+example.py runs
+Datagrid.py has 2 source errors
+    cell.bind(on_press=partial(callback, **param_kwargs))
+    Unresolved reference 'partial'
+    Perhaps I could find another copy of Datagrid.py that does not have this error because it appears that there is a
+    newer version of Datagrid.py. (I got confused by BorderBehavior here so maybe that's got a newer version:(
+    https://github.com/search?utf8=%E2%9C%93&q=datagrid.py&type=Code
+    WOW: 23,067 code results
+    https://github.com/search?utf8=%E2%9C%93&q=%22datagrid.py%22&type=Code
+    WOW: still 86 results
+    But no datagrid.py and kivy
+
+    GitHub kivy and datagrid.py
+    https://www.google.com/search?q=kivy+and+datagrid.py&oq=kivy+and+datagrid.py&aqs=chrome..69i57j69i60.3104j0j7&sourceid=chrome&ie=UTF-8
+    21,000 results
+    
+
+
+
+Something got
+    Your source code contains __future__ imports. Would you like to enable Code compatibility inspection? Yes No
+    https://www.google.com/search?q=Your+source+code+contains+__future__+imports.+Would+you+like+to+enable+Code+compatibility+inspection%3F+Yes+No&oq=Your+source+code+contains+__future__+imports.+Would+you+like+to+enable+Code+compatibility+inspection%3F+Yes+No&aqs=chrome..69i57.2617j0j7&sourceid=chrome&ie=UTF-8
+
+Datagrid.py Debug gets "Cython extension speeds up Python debugging"
+    https://www.jetbrains.com/help/pycharm/2017.2/cython-speedups.html?utm_content=2017.2&utm_medium=help_link&utm_source=from_product&utm_campaign=PC
+
+
+
+Your source code contains __future__ imports. Would you like to enable Code compatibility inspection? Yes  No
