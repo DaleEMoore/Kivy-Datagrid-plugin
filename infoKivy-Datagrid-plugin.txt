@@ -1,10 +1,65 @@
 
 
 Overview
+Forked  https://github.com/namkazt/Kivy-Datagrid-plugin
+to      https://github.com/DaleEMoore/Kivy-Datagrid-plugin
+
+Datagrid
 
 
 
 TODO
+Code gist for Developers
+    http://codegist.net/search/kivy-datagrid/4
+        Lots of kivy and .py code.
+    http://codegist.net/search/kivy-datagrid/5
+    http://codegist.net/search/kivy-datagrid/6
+        Interesting datatable and other kivy py examples.
+    http://codegist.net/search/kivy-datagrid/7
+        big settings.py
+    http://codegist.net/search/kivy-datagrid/8
+    http://codegist.net/search/kivy-datagrid/9
+        ?
+        autoscrollablelabel.py
+    10 is missing:(
+    http://codegist.net/search/kivy-datagrid/11
+        Some good py code.
+    http://codegist.net/search/kivy-datagrid/12
+        kivy starfield
+    http://codegist.net/search/kivy-datagrid/12
+    http://codegist.net/search/kivy-datagrid/13
+        Some iOS code
+    http://codegist.net/search/kivy-datagrid/14
+        MAC, bluetooth
+    http://codegist.net/search/kivy-datagrid/15
+        screenmanager
+        data_grid also http://pythonexample.com/search/kivy-android-bluetooth/9
+            https://github.com/pedrodgcouto/kivy.data_grid/blob/master/data_grid.py
+
+This might be the closest yet:
+    https://github.com/pedrodgcouto/kivy.data_grid
+
+
+
+
+Find some source examples using kivy.Datagrid.
+    Kivy-Datagrid-plugin example.py
+    https://github.com/DaleEMoore/Kivy-Datagrid-plugin/blob/master/example.py
+
+    http://codegist.net/search/kivy-datagrid/2
+    kivy-fade-in-example.py
+    Needs ./Aliquam.ttf found
+    dalem@QnD:~/PycharmProjects$ cp /home/dalem/.PyCharmCE2017.1/system/tmp/patch-update/jre/lib/fonts/DroidSansMono.ttf Kivy-Datagrid-plugin
+    and it's working OK now!
+
+Something got
+    Your source code contains __future__ imports. Would you like to enable Code compatibility inspection? Yes No
+    https://www.google.com/search?q=Your+source+code+contains+__future__+imports.+Would+you+like+to+enable+Code+compatibility+inspection%3F+Yes+No&oq=Your+source+code+contains+__future__+imports.+Would+you+like+to+enable+Code+compatibility+inspection%3F+Yes+No&aqs=chrome..69i57.2617j0j7&sourceid=chrome&ie=UTF-8
+
+Datagrid.py Debug gets "Cython extension speeds up Python debugging"
+    https://www.jetbrains.com/help/pycharm/2017.2/cython-speedups.html?utm_content=2017.2&utm_medium=help_link&utm_source=from_product&utm_campaign=PC
+
+Your source code contains __future__ imports. Would you like to enable Code compatibility inspection? Yes  No
 
 
 
@@ -28,17 +83,21 @@ Datagrid.py has 2 source errors
     GitHub kivy and datagrid.py
     https://www.google.com/search?q=kivy+and+datagrid.py&oq=kivy+and+datagrid.py&aqs=chrome..69i57j69i60.3104j0j7&sourceid=chrome&ie=UTF-8
     21,000 results
-    
+
+    Hmmmmm...
+    There's a datagrid here
+    https://bitbucket.org/interprogs/kivy.datagrid/src/54bbe6d615879fbf1849b316f798d9e3a2f82b63/main.py?at=master&fileviewer=file-view-default
+    https://bitbucket.org/interprogs/kivy.datagrid.git
+    Several Datagrid plugins for kivy
+    https://www.google.com/search?q=Data+grid+plugin+for+Kivy&oq=Data+grid+plugin+for+Kivy&aqs=chrome..69i57j69i64&sourceid=chrome&ie=UTF-8
+    I think this one https://github.com/pedrodgcouto/Kivy.DataGrid is the plugin for kivy.
 
 
 
-Something got
-    Your source code contains __future__ imports. Would you like to enable Code compatibility inspection? Yes No
-    https://www.google.com/search?q=Your+source+code+contains+__future__+imports.+Would+you+like+to+enable+Code+compatibility+inspection%3F+Yes+No&oq=Your+source+code+contains+__future__+imports.+Would+you+like+to+enable+Code+compatibility+inspection%3F+Yes+No&aqs=chrome..69i57.2617j0j7&sourceid=chrome&ie=UTF-8
-
-Datagrid.py Debug gets "Cython extension speeds up Python debugging"
-    https://www.jetbrains.com/help/pycharm/2017.2/cython-speedups.html?utm_content=2017.2&utm_medium=help_link&utm_source=from_product&utm_campaign=PC
+Fri 3 Nov 2017 5:13 PM CST
+http://codegist.net/search/kivy-datagrid/3
+    Looks meaty, involved and complicated and MIGHT BE a good example!
+    Nope, it's not Python; it's javaScript.
 
 
 
-Your source code contains __future__ imports. Would you like to enable Code compatibility inspection? Yes  No
