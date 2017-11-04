@@ -1,10 +1,8 @@
-
+kivy Datagrid
 
 Overview
 Forked  https://github.com/namkazt/Kivy-Datagrid-plugin
 to      https://github.com/DaleEMoore/Kivy-Datagrid-plugin
-
-Datagrid
 
 
 
@@ -38,6 +36,14 @@ Code gist for Developers
 
 This might be the closest yet:
     https://github.com/pedrodgcouto/kivy.data_grid
+    People that forked it https://github.com/pedrodgcouto/kivy.data_grid/network/members. Look at all their projects!
+    The forks are all 4 years ago:(
+
+    The code runs as python2!
+    Forked  https://github.com/pedrodgcouto/kivy.data_grid
+    to      https://github.com/DaleEMoore/kivy.data_grid
+
+
 
 
 
